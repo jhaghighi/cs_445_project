@@ -1,0 +1,7 @@
+Author: Justin Haghighi
+Instructor: Iman Vakilinia
+Course: CS 445.1001
+Date: 2019-03-25
+
+Description:
+The goal of this project is to retrieve a session ID, craft a packet with it, and use it to post to a social media account. Wireshark enables the discovery of the social media site's authentication scheme. From there, the browser stores cookies for the website that may contain a session ID. Then, the session ID and packet crafting facilitate posting to the social media site without need for other credentials. 
